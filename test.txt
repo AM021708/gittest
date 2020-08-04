@@ -1,1 +1,2 @@
 這邊打第一行 是桌機打的。
+line 2 from desktop on branch newbr1.
