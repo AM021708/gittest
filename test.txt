@@ -1,3 +1,4 @@
 這邊打第一行 是桌機打的。
-
-偷偷加第3行，筆電打的，newbr1
+line 2 from desktop on branch newbr1.
+我才是第3行我是桌機，newbr1
+抱歉我不知道有第3行我改第4行
